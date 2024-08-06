@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
