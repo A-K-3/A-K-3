@@ -8,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&border_radius=5&card_width=800">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=akkkkkk&theme=synthwave&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkkkkk&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
