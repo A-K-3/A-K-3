@@ -1,7 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=akkkkkk&title=Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+
 ---
 
 | Debian | Ubuntu | Kali
@@ -12,6 +10,10 @@
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkkkkk&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
