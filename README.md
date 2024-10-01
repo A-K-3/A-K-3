@@ -242,7 +242,7 @@
                     </td>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.parrotsec.org/" target="_blank">
-                            <img src="https://gitlab.com/parrotsec/project/graphics/-/blob/master/logo/parrotsec-logo.svg" alt="Parrot" height="50"/>
+                            <img src="https://camo.githubusercontent.com/1f50062b94342adb3d32718944387bdd62ec9a9e89b152cf085bdbdccd95714a/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667" alt="Parrot" height="50"/>
                         </a>
                         <br>Parrot
                     </td>
