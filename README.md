@@ -83,6 +83,14 @@
                         <br>jQuery
                     </td>
                 </tr>
+                <tr>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://webpack.js.org/" target="_blank">
+                            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50"/>
+                        </a>
+                        <br>Webpack
+                    </td>
+                </tr>
             </table>
         </td>
         <td valign="top">
@@ -194,6 +202,20 @@
                         <br>Django
                     </td>
                 </tr>
+                <tr>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://flask.palletsprojects.com/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/>
+                        </a>
+                        <br>Flask
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.python.org/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+                        </a>
+                        <br>Python
+                    </td>
+                </tr>
             </table>
         </td>
     </tr>
@@ -267,3 +289,4 @@
         </td>
     </tr>
 </table>
+
