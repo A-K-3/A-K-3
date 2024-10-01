@@ -204,3 +204,72 @@
         </td>
     </tr>
 </table>
+<table width="100%" align="center">
+        <td valign="top">
+            <div align="center">
+                <h3>DevOps & Otros</h3>
+            </div>
+            <table align="center" style="width: 100%; table-layout: auto;">
+                <tr>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.linux.org/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
+                        </a>
+                        <br>Linux
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.gnu.org/software/bash/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/>
+                        </a>
+                        <br>Bash
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://firebase.google.com/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>
+                        </a>
+                        <br>Firebase
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://github.com/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+                        </a>
+                        <br>Git
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://about.gitlab.com/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/>
+                        </a>
+                        <br>GitLab
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://mariadb.org/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50"/>
+                        </a>
+                        <br>MariaDB
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.postgresql.org/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
+                        </a>
+                        <br>PostgreSQL
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.nginx.com/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50"/>
+                        </a>
+                        <br>Nginx
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.oracle.com/in/index.html" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50"/>
+                        </a>
+                        <br>Oracle
+                    </td>
+                </tr>
+            </table>
+        </td>
+</table>
