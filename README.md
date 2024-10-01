@@ -1,15 +1,11 @@
-
-<br/>  
-
-
-<table><tr><td valign="top" width="33%">
-
-
-<div align="center">
-  <h3>Frontend</h3>
-</div>
-
-<table align="center">
+<div style="overflow-x:auto; width: 100%;">
+  <table width="100%">
+    <tr>
+      <td valign="top">
+        <div align="center">
+          <h3>Frontend</h3>
+        </div>
+        <table align="center" style="width: 100%; table-layout: auto;">
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://www.javascript.com/" target="_blank">
@@ -96,19 +92,14 @@
       <br>Webpack
     </td>
   </tr>
-</table>
-
-
-</td><td valign="top" width="33%">
-
-
-
-<div align="center">
-  <h3>Backend</h3>
-</div>
-
-<table align="center">
-  <tr>
+        </table>
+      </td>
+      <td valign="top">
+        <div align="center">
+          <h3>Backend</h3>
+        </div>
+        <table align="center" style="width: 100%; table-layout: auto;">
+           <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
@@ -226,19 +217,14 @@
       <br>Python
     </td>
   </tr>
-</table>
-
-
-</td><td valign="top" width="33%">
-
-
-
-<div align="center">
-  <h3>Frontend</h3>
-</div>
-
-<table align="center">
-  <tr>
+        </table>
+      </td>
+      <td valign="top">
+        <div align="center">
+          <h3>DevOps & Otros</h3>
+        </div>
+        <table align="center" style="width: 100%; table-layout: auto;">
+           <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
@@ -298,9 +284,10 @@
       <br>Oracle
     </td>
   </tr>
-</table>
+        </table>
+      </td>
 
-</td><td valign="top" width="33%">
+</div>
 
 
 
