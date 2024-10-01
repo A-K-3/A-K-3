@@ -208,7 +208,7 @@
     <tr>
         <td valign="top" style="padding: 10px;">
             <div align="center">
-                <h3>DevOps & Otros</h3>
+                <h3>DevOps & Anothers</h3>
             </div>
             <table align="center" style="width: 100%; table-layout: auto;">
                 <tr>
@@ -242,14 +242,14 @@
                         </a>
                         <br>GitLab
                     </td>
-                </tr>
-                <tr>
-                    <td align="center" style="padding: 10px;">
+                                  <td align="center" style="padding: 10px;">
                         <a href="https://mariadb.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50"/>
                         </a>
                         <br>MariaDB
                     </td>
+                </tr>
+                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.postgresql.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
