@@ -1,6 +1,6 @@
-<table width="100%" align="center">
+<table width="100%" style="padding: 50px;" align="center">
     <tr>
-        <td valign="top">
+        <td valign="top" style="padding: 50px;">
             <div align="center">
                 <h3>Frontend</h3>
             </div>
@@ -205,7 +205,8 @@
     </tr>
 </table>
 <table width="100%" align="center">
-        <td valign="top">
+    <tr>
+        <td valign="top" style="padding: 10px;">
             <div align="center">
                 <h3>DevOps & Otros</h3>
             </div>
@@ -235,14 +236,14 @@
                         </a>
                         <br>Git
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://about.gitlab.com/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/>
                         </a>
                         <br>GitLab
                     </td>
+                </tr>
+                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://mariadb.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50"/>
@@ -261,8 +262,6 @@
                         </a>
                         <br>Nginx
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.oracle.com/in/index.html" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50"/>
@@ -272,4 +271,5 @@
                 </tr>
             </table>
         </td>
+    </tr>
 </table>
