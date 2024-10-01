@@ -109,14 +109,14 @@
                         </a>
                         <br>Nuxt JS
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.cplusplus.com/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
                         </a>
                         <br>C++
                     </td>
+                </tr>
+                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
@@ -129,8 +129,6 @@
                         </a>
                         <br>C
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50"/>
@@ -143,14 +141,14 @@
                         </a>
                         <br>.Net Core
                     </td>
+                </tr>
+                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://codeigniter.com/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50"/>
                         </a>
                         <br>CodeIgniter
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://laravel.com/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50"/>
@@ -189,8 +187,6 @@
                         </a>
                         <br>MySQL
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.djangoproject.com/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50"/>
