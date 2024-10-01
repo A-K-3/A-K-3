@@ -44,7 +44,6 @@
                         </a>
                         <br>Sass
                     </td>
-
                     <td align="center" style="padding: 10px;">
                         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"/>
@@ -65,7 +64,6 @@
                         </a>
                         <br>React
                     </td>
-
                     <td align="center" style="padding: 10px;">
                         <a href="https://vuejs.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"/>
