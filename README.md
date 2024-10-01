@@ -24,14 +24,14 @@
                         </a>
                         <br>HTML5
                     </td>
-                </tr>
-                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.w3schools.com/css/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>
                         </a>
                         <br>CSS3
                     </td>
+                </tr>
+                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="http://getbem.com/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50"/>
@@ -44,8 +44,7 @@
                         </a>
                         <br>Sass
                     </td>
-                </tr>
-                <tr>
+
                     <td align="center" style="padding: 10px;">
                         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"/>
@@ -58,14 +57,15 @@
                         </a>
                         <br>Tailwind CSS
                     </td>
+                </tr>
+                <tr>
                     <td align="center" style="padding: 10px;">
                         <a href="https://reactjs.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
                         </a>
                         <br>React
                     </td>
-                </tr>
-                <tr>
+
                     <td align="center" style="padding: 10px;">
                         <a href="https://vuejs.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"/>
@@ -242,7 +242,7 @@
                         </a>
                         <br>GitLab
                     </td>
-                                  <td align="center" style="padding: 10px;">
+                    <td align="center" style="padding: 10px;">
                         <a href="https://mariadb.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50"/>
                         </a>
