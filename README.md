@@ -235,16 +235,28 @@
                         <br>Linux
                     </td>
                     <td align="center" style="padding: 10px;">
+                        <a href="https://www.kali.org/" target="_blank">
+                            <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" alt="Kali" height="50"/>
+                        </a>
+                        <br>Kali
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.parrotsec.org/" target="_blank">
+                            <img src="https://gitlab.com/parrotsec/project/graphics/-/blob/master/logo/parrotsec-logo.svg" alt="Parrot" height="50"/>
+                        </a>
+                        <br>Parrot
+                    </td>
+                    <td align="center" style="padding: 10px;">
                         <a href="https://www.gnu.org/software/bash/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/>
                         </a>
                         <br>Bash
                     </td>
                     <td align="center" style="padding: 10px;">
-                        <a href="https://firebase.google.com/" target="_blank">
-                            <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>
+                        <a href="https://www.lua.org/" target="_blank">
+                            <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/lua/lua-original.svg" alt="Lua" height="50"/>
                         </a>
-                        <br>Firebase
+                        <br>Lua
                     </td>
                     <td align="center" style="padding: 10px;">
                         <a href="https://github.com/" target="_blank">
@@ -267,10 +279,22 @@
                 </tr>
                 <tr>
                     <td align="center" style="padding: 10px;">
+                        <a href="https://firebase.google.com/" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>
+                        </a>
+                        <br>Firebase
+                    </td>
+                    <td align="center" style="padding: 10px;">
                         <a href="https://www.postgresql.org/" target="_blank">
                             <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
                         </a>
                         <br>PostgreSQL
+                    </td>
+                    <td align="center" style="padding: 10px;">
+                        <a href="https://www.oracle.com/in/index.html" target="_blank">
+                            <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50"/>
+                        </a>
+                        <br>Oracle
                     </td>
                     <td align="center" style="padding: 10px;">
                         <a href="https://www.nginx.com/" target="_blank">
@@ -279,14 +303,32 @@
                         <br>Nginx
                     </td>
                     <td align="center" style="padding: 10px;">
-                        <a href="https://www.oracle.com/in/index.html" target="_blank">
-                            <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50"/>
+                        <a href="https://www.apache.org/" target="_blank">
+                            <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/apache/apache-original.svg" alt="Apache" height="50"/>
                         </a>
-                        <br>Oracle
+                        <br>Apache
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
 </table>
+<br><br>
+
+<div align="center">
+    
+<span align="center">
+<a href="https://git.io/streak-stats"><img width="400" height="120" src="https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=false" alt="GitHub Streak" /></a>
+</span>
+
+<span align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkkkkk&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</span>
+</div>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=akkkkkk&style=for-the-badge&color=red" alt=""/>
+</div>
 
