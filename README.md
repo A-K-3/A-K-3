@@ -318,11 +318,11 @@
 <div align="center">
     
 <span align="center">
-<a href="https://git.io/streak-stats"><img width="400" height="120" src="https://streak-stats.demolab.com?user=akkkkkk&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="400" height="120" src="https://streak-stats.demolab.com?user=a-k-3&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </span>
 
 <span align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkkkkk&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-k-3&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </span>
 </div>
 
