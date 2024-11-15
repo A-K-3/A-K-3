@@ -318,7 +318,7 @@
 <div align="center">
     
 <span align="center">
-<img href="https://git.io/streak-stats"><img width="400" height="120" src="https://streak-stats.demolab.com?user=a-k-3&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true"/>
+<img width="400" height="120" src="https://streak-stats.demolab.com?user=a-k-3&theme=highcontrast&border_radius=9&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true"/>
 </span>
 
 <span align="center">
