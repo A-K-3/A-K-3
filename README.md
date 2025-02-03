@@ -322,7 +322,7 @@
 </span>
 
 <span align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-k-3&theme=vision-friendly-dark">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-k-3&theme=vision-friendly-dark">
 </span>
 </div>
 
