@@ -113,7 +113,7 @@
                     </td>
                     <td align="center" style="padding: 10px;">
                         <a href="https://nuxtjs.org/" target="_blank">
-                            <img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50"/>
+                            <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="Nuxt JS" height="50"/>
                         </a>
                         <br>Nuxt JS
                     </td>
